@@ -8,4 +8,9 @@ const config = {
   plugins: [require("daisyui")]
 };
 
-module.exports = config;
+module.exports = {
+  //...
+  daisyui: {
+    themes: ["black"],
+  },
+}
