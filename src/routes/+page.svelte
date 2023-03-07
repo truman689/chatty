@@ -62,7 +62,7 @@
 	}
 </script>
 
-<div class="flex flex-col pt-4 w-full px-8 items-center gap-2">
+<div class="max-w-screen flex flex-col pt-4 w-full px-8 items-center gap-2">
 	<div>
 		<h1 class="text-2xl font-bold w-full text-center">Athena</h1>
 		<p class="text-sm italic">An AI Assistant.</p>
